@@ -1,1 +1,6 @@
 sss
+<<<<<<< HEAD
+=======
+sss
+>>>>>>> new_branch
+ffff
